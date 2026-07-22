@@ -41,4 +41,8 @@ I built these clones to:
 Feel free to fork this project, submit pull requests, or send suggestions. Any feedback to improve the design or code structure is highly appreciated!
 
 ---
+## 📄 License
+This project is licensed under the [MIT License](LICENSE).
+
+---
 *If you liked these projects, don't forget to leave a ⭐ on this repository!*
