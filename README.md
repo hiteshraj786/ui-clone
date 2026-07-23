@@ -17,11 +17,11 @@ A sleek and dark-themed clone of the Netflix landing page.
 ### 3. 🐦 Twitter (X) UI Clone
 A minimalist and functional clone of the Twitter web interface.
 - **Key Features:** Left sidebar navigation, central tweet feed with post creation UI, and a right sidebar for trending topics and suggestions.
-- **Technologies:** HTML, CSS
+- **Technologies:** HTML, Tailwind CSS
 
 ## 🛠️ Tech Stack
 - **Structure:** HTML5
-- **Styling:** CSS3 (Flexbox, Grid, Media Queries)
+- **Styling:** CSS3 (Flexbox, Grid, Media Queries) and Tailwind CSS
 
 ## 💡 Why this project?
 I built these clones to:
